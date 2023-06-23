@@ -1,0 +1,5 @@
+{
+    "token": "Botunuzun tokenini giriniz.",
+    "clientID": "Botunuzun ID'sini giriniz.",
+    "logKanal": "Log kanal ID'sini giriniz. Botun bu kanala erişimi, mesaj erişimi vs. varmı yokmu emin olun."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "reflex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "axios": "^1.4.0",
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.11.0",
+    "http": "^0.0.1-security",
+    "module": "^1.1.0",
+    "nodemon": "^2.0.22",
+    "os": "^0.1.2",
+    "os-utils": "^0.0.14",
+    "undici": "^5.22.1"
+  }
+}
